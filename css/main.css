@@ -14,8 +14,22 @@ body {
 
 h1 {
   color: #FFFFFF;
-  font-family: 'Abril Fatface', cursive;
-  font-size: 48px;
+  /* font-family: 'Abril Fatface', cursive; */
+  font-size: 56px;
+}
+
+h3 {
+
+}
+
+.dates {
+  color: #FFD5AE
+  font-size: 22px;
+}
+
+.hosts {
+  color: #FFF;
+  font-size: 15px;
 }
 
 .about.h1, .location.h1 {
@@ -56,4 +70,6 @@ section {
   box-sizing: border-box;
   margin: 20px 0 0 0;
   text-align: center;
+  padding: 10px 15px;
+
 }
