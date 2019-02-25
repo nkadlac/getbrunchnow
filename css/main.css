@@ -1,6 +1,6 @@
 
 body {
-  background: #03142D url(images/background.jpg) no-repeat 0 0;
+  background: #03142D url(/images/background.jpg) no-repeat 0 0;
   color: #FFF;
   font-family: 'Roboto Slab', serif;
   font-size: 16px;
@@ -14,6 +14,10 @@ h1 {
   font-size: 48px;
 }
 
+.about.h1, .location.h1 {
+  color: #000;
+}
+
 .container {
   max-width: 640px;
   margin: 100px 20px;
@@ -24,9 +28,12 @@ section {
 }
 
 .guest-speaker {
-  background: #0F0932;
+  background: #03142D;
   color: #FFF;
 }
+
+
+
 .about {
   background: #FFD5AE;
   color: #000000;
