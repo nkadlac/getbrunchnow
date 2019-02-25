@@ -1,6 +1,6 @@
 
 body {
-  background: #03142D;
+  background: #03142D url(images/background.jpg) no-repeat 0 0;
   color: #FFF;
   font-family: 'Roboto Slab', serif;
   font-size: 16px;
@@ -10,4 +10,23 @@ h1 {
   color: #FFFFFF;
   font-family: 'Abril Fatface', cursive;
   font-size: 48px;
+}
+
+
+section {
+  margin: 1em 1em;
+}
+
+.guest-speaker {
+  background: #0F0932;
+  color: #FFF;
+}
+.about {
+  background: #FFD5AE;
+  color: #FFF;
+}
+
+.location {
+  background: #FFD5AE;
+  color: #000000;
 }
