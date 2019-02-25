@@ -1,6 +1,10 @@
 
 body {
-  background: #03142D url(/images/background.jpg) no-repeat 0 0;
+  background: #03142D url(/images/background.jpg) no-repeat center 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   color: #FFF;
   font-family: 'Roboto Slab', serif;
   font-size: 16px;
@@ -42,4 +46,13 @@ section {
 .location {
   background: #F2C79F;
   color: #000000;
+}
+
+
+.button {
+  background: #F2C79F;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
