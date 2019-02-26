@@ -51,6 +51,10 @@ section {
   color: #6E60BD;
 }
 
+h1.title {
+  margin-bottom: 20px;
+}
+
 h1.about, h1.location {
   color: #000;
 }
@@ -59,6 +63,12 @@ h1.about, h1.location {
   background: #03142D;
   color: #FFF;
   font-weight: 900;
+}
+
+.avatar {
+  background: url(/images/paul-avatar.png) no-repeat 0 0;
+  width: 106px;
+  height: 106px;
 }
 
 .about {
