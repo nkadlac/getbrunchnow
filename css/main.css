@@ -16,7 +16,7 @@ h1 {
 
 h3 {
   font-size: 32px;
-  font-weight:
+  font-weight: 700;
 }
 
 
@@ -37,6 +37,7 @@ section {
 .hosts {
   color: #FFF;
   font-size: 15px;
+  font-weight: 700;
 }
 
 .about.h1, .location.h1 {
@@ -46,6 +47,7 @@ section {
 .guest-speaker {
   background: #03142D;
   color: #FFF;
+  font-weight: 900;
 }
 
 .about {
@@ -66,5 +68,6 @@ section {
   margin: 20px 0 0 0;
   text-align: center;
   padding: 10px 15px;
+  font-weight: 700;
 
 }
