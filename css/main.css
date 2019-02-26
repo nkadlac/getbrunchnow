@@ -32,7 +32,8 @@ section {
 }
 
 h1.title {
-  font-family: 'Abril', 'Roboto', serif;
+  font-family: 'Abril Fatface', 'Roboto', Cursive, serif;
+  margin-bottom: 20px;
 }
 
 .dates {
@@ -56,10 +57,6 @@ h1.title {
 
 .hosts a:hover, .hosts a:active {
   color: #6E60BD;
-}
-
-h1.title {
-  margin-bottom: 20px;
 }
 
 h1.address, h1.about {
