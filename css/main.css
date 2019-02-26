@@ -31,8 +31,8 @@ section {
   margin-bottom: 40px;
 }
 
-.main h1 {
-  font-family: Abril, Roboto, serif;
+h1.title {
+  font-family: 'Abril', 'Roboto', serif;
 }
 
 .dates {
