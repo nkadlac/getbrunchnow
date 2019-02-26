@@ -28,13 +28,14 @@ section {
 
 .main {
   margin: 300px 0 0 0;
+  border-bottom: 1px solid rgba(255,255,255, .1);
 }
 
 .dates {
   color: #FFD5AE;
   font-size: 22px;
   text-transform: uppercase;
-  line-height: 1.3em;
+  line-height: 1.6em;
 }
 
 .hosts {
@@ -42,7 +43,7 @@ section {
   font-size: 15px;
   font-weight: 700;
   text-transform: uppercase;
-  line-height: 1.3em;
+  line-height: 1.6em;
 }
 
 .hosts a:link {
@@ -70,8 +71,12 @@ h1.address, h1.about {
   padding-top: 0;
 }
 
+.guest-speaker h3 {
+  line-height: 1.3em;
+}
+
 .honor {
-  opacity: 60%;
+  color: rgba(255,255,255, .6);
   font-size: 20px;
   font-weight: 700;
 }
