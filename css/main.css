@@ -59,12 +59,19 @@ h1.title {
 
 h1.address, h1.about {
   color: #000000;
+  font-size: 22px;
 }
 
 .guest-speaker {
   background: #03142D;
   color: #FFF;
   font-weight: 900;
+}
+
+.honor {
+  opacity: 60%;
+  font-size: 20px;
+  font-weight: 700;
 }
 
 .guest-speaker p {
