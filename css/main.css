@@ -22,7 +22,7 @@ h3 {
 
 
 section {
-  padding: 0 20px;
+  padding: 40px 20px;
   margin: 0;
 }
 
@@ -73,8 +73,8 @@ h1.about, h1.location {
 
 .avatar {
   background: url(/images/paul-avatar.png) no-repeat 0 0;
-  width: 58px;
-  height: 58px;
+  width: 106px;
+  height: 106px;
   display: inline-block;
 
 }
