@@ -42,6 +42,14 @@ section {
   text-transform: uppercase;
 }
 
+.hosts:link {
+  color: #FFF;
+}
+
+.hosts:hover, .hosts:active {
+  color: #6E60BD;
+}
+
 h1.about, h1.location {
   color: #000;
 }
