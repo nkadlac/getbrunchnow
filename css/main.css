@@ -1,6 +1,6 @@
 
 body {
-  background: #03142D url(/images/background.jpg) no-repeat center 0;
+  background: #03142D url(/images/background.jpg) no-repeat center bottom;
   color: #FFF;
   font-family: 'Roboto', 'Helvetica-Neue', Helvetica, sans-serif;
   font-size: 16px;
@@ -40,7 +40,7 @@ section {
   font-weight: 700;
 }
 
-.about.h1, .location.h1 {
+h1.about, h1.location {
   color: #000;
 }
 
