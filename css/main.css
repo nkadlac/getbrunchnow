@@ -67,6 +67,7 @@ h1.address, h1.about {
   background: #03142D;
   color: #FFF;
   font-weight: 900;
+  padding-top: 0;
 }
 
 .honor {
@@ -76,7 +77,7 @@ h1.address, h1.about {
 }
 
 .guest-speaker p {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 400;
   line-height: 1.3em;
 }
@@ -92,14 +93,16 @@ h1.address, h1.about {
 .about {
   background: #FFD5AE;
   color: #000000;
-  font-size: 20px;
-  line-height: 1.3em;
+  font-size: 22px;
+  line-height: 1.4em;
   font-weight: 400;
 }
 
 .location {
   background: #F2C79F;
   color: #000000;
+  font-weight: 22px;
+  line-height: 1.4em;
 }
 
 
