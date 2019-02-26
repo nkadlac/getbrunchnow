@@ -1,6 +1,7 @@
 
 body {
   background: #03142D url(/images/background.jpg) no-repeat center 0;
+  background-size: 100%;
   color: #FFF;
   font-family: 'Roboto', 'Helvetica-Neue', Helvetica, sans-serif;
   font-size: 16px;
@@ -42,11 +43,11 @@ section {
   text-transform: uppercase;
 }
 
-.hosts:link {
+.hosts a:link {
   color: #FFF;
 }
 
-.hosts:hover, .hosts:active {
+.hosts a:hover, .hosts a:active {
   color: #6E60BD;
 }
 
