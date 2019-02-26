@@ -40,7 +40,7 @@ h1.title {
   color: #FFD5AE;
   font-size: 22px;
   text-transform: uppercase;
-  line-height: 1.6em;
+  line-height: 1.8em;
 }
 
 .hosts {
@@ -48,7 +48,7 @@ h1.title {
   font-size: 15px;
   font-weight: 700;
   text-transform: uppercase;
-  line-height: 1.6em;
+  line-height: 1.8em;
 }
 
 .hosts a:link {
@@ -68,8 +68,7 @@ h1.address, h1.about {
 .guest-speaker {
   background: #03142D;
   color: #FFF;
-  font-weight: 900;
-  /* padding-top: 0; */
+  font-weight: 400;
   border-top: 1px solid rgba(255,255,255, .2);
 }
 
@@ -79,15 +78,16 @@ h1.address, h1.about {
 }
 
 span.honor {
-  color: rgba(255,255,255, .6);
-  font-size: 20px;
-  font-weight: 700;
+  color: rgba(255,255,255, .5);
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 
 .guest-speaker p {
   font-size: 22px;
   font-weight: 400;
-  line-height: 1.3em;
+  line-height: 1.5em;
 }
 
 .avatar {
@@ -102,15 +102,27 @@ span.honor {
   background: #FFD5AE;
   color: #000000;
   font-size: 22px;
-  line-height: 1.4em;
+  line-height: 1.5em;
   font-weight: 400;
 }
 
 .location {
   background: #F2C79F;
   color: #000000;
-  font-weight: 22px;
+
   line-height: 1.4em;
+}
+
+.location p {
+  font-size: 22px;
+  line-height: 1.4em;
+}
+
+.location a {
+  width: 100%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 16px;
 }
 
 
@@ -122,5 +134,4 @@ span.honor {
   text-align: center;
   padding: 10px 15px;
   font-weight: 700;
-
 }
