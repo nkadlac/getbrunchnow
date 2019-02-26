@@ -82,6 +82,9 @@ h1.about, h1.location {
 .about {
   background: #FFD5AE;
   color: #000000;
+  font-size: 20px;
+  line-height: 1.3em;
+  font-weight: 400;
 }
 
 .location {
