@@ -72,10 +72,10 @@ h1.about, h1.location {
 }
 
 .avatar {
-  background: url(/images/paul-avatar.png) no-repeat 0 0;
-  width: 106px;
-  height: 106px;
-  display: inline-block;
+  /* background: url(/images/paul-avatar.png) no-repeat 0 0; */
+  /* width: 106px; */
+  /* height: 106px; */
+  /* display: inline-block; */
 
 }
 
